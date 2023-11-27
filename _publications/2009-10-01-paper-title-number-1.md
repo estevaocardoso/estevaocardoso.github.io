@@ -10,4 +10,4 @@ citation: 'da Silva, Estevão Miguel Cardoso, et al. "Detecção de indícios de
 
 [Download paper here](https://drive.google.com/file/d/1aJ1a9M0MuyKN60rf-B_tBcIkfe1j-TSY/view?usp=sharing)
 
-Recommended citation: da Silva, Estevão Miguel Cardoso, et al. "Detecção de indícios de cartel: um estudo de caso para Belém/PA e Santarém/PA por meio de modelos de volatilidade." Research, Society and Development 10.13 (2021): e279101321397-e279101321397.
+
