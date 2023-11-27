@@ -27,6 +27,6 @@ This study used python to analyze data series and applied two filtering methodol
 With Tarcísio Lobato
 
 ## Other projects
-[**Data analysis project for soybean crops from 2009/10 to 2021/22 using Python**](https://drive.google.com/file/d/1jCygbScqzbBCeuib1F76vWX-Ry9S_H49/view?usp=sharing)
+> [**Data analysis project for soybean crops from 2009/10 to 2021/22 using Python**](https://drive.google.com/file/d/1jCygbScqzbBCeuib1F76vWX-Ry9S_H49/view?usp=sharing)
 This project presents the results of data analysis of the soybean crop historical series from the years 2009/2010 to 2021/2022 for all federal regions of Brazil. The main objective of this analysis is to understand how the evolution of soy producers' income occurred over the selected period. 
 
