@@ -9,7 +9,6 @@ paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'da Silva, Estevão Miguel Cardoso, et al. "Detecção de indícios de cartel: um estudo de caso para Belém/PA e Santarém/PA por meio de modelos de volatilidade." Research, Society and Development 10.13 (2021): e279101321397-e279101321397.'
 ---
 
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://academicpages.github.io/files/21397-Article-256318-1-10-20211012 (2).pdf)
 
 Recommended citation: da Silva, Estevão Miguel Cardoso, et al. "Detecção de indícios de cartel: um estudo de caso para Belém/PA e Santarém/PA por meio de modelos de volatilidade." Research, Society and Development 10.13 (2021): e279101321397-e279101321397.
