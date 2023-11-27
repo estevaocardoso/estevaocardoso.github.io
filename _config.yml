@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Estevão Cardoso"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Estevão Cardoso"
 description              : &description "personal description"
 url                      : https://estevaocardoso.github.io/estevaocardoso/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,11 +82,9 @@ analytics:
 author:
   name             : "Estevao Cardoso"
   avatar           : "pff.png (1).jpg"
-
-  
   bio              : "Msc student in Economics"
   location         : "Recife/PE - Brazil"
-  employer         : "Universidade Federal de Pernambuco
+  employer         : "Universidade Federal de Pernambuco"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=LxASbnsAAAAJ&hl=pt-BR"
   email            :  "estevaomcs@gmail.com"
