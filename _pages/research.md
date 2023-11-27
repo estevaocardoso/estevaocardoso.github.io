@@ -21,8 +21,7 @@ This study used R to analyze fuel price data series and apply ARCH and GARCH fam
 ---
 With Tarcísio Lobato, Brena do Nascimento Carvalho, Zilda Joaquina Cohen Gama dos Santos
 
-> [**Analysis project of the historical series of fuels of municipalities in the state of Pará using Python**](https://docs.google.com/presentation/d/1ujuw85dBVfFrFYNTBzde2B_0GW9FhTiO/present?slide=id.p4)
-
+> [**Analysis project of the historical series of fuels of municipalities in the state of Pará using Python**](https://docs.google.com/presentation/d/1ujuw85dBVfFrFYNTBzde2B_0GW9FhTiO/present?slide=id.p4)                                                                       
 This study used python to analyze data series and applied two filtering methodologies to the price series of retail fuel stations in the municipalities of Belém/PA, Marabá/PA and Santarém/PA in search of cartel evidence: i) the methodology used by the ANP based on the observation of price variation coefficients; and (ii) the methodology described by Ragazzo (2006) which consists of verifying the correlation coefficient between the coefficient of variation and the resale margin.
 ---
 With Tarcísio Lobato
