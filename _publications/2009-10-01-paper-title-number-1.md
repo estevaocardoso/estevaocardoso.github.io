@@ -1,7 +1,6 @@
 ---
 title: "Analysis project of the historical series of fuels from municipalities in the state of Pará using ARCH and GARCH models"
 collection: publications
-#permalink: /publication/2010-10-01-paper-title-number-1
 excerpt: 'This study used R to analyze fuel price data series and apply ARCH and GARCH family forecast models. In it, we model the series using analysis of variance models to understand the behavior of the errors. The main objective of the project is to understand if there are signs of cartel in the behavior of the series either in the variance or in the mean of the series.'
 date: 2021-10-09
 venue: 'Research, Society and Development'
