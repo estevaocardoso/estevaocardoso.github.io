@@ -40,7 +40,8 @@ This project presents the results of data analysis of the soybean crop historica
 
 > [**Connect or separate: does internet increased the propensity for divorce in Brazil?**](https://drive.google.com/file/d/1qkVjEE9zWKAYXlJxn5a7tMrGGNFQe2tD/view?usp=drive_link)
 ---
-With <u><a href="{{https://x.com/rafaelgoesecon}}">Rafael Góes</a>.</u>
+With [Rafael Góes](https://x.com/rafaelgoesecon).
+
 
 
 > [**FDI and Startups: do brazilian startups stand a chance of receiving it?**](https://drive.google.com/file/d/1m9fG3GPjtpDQlS8vn88wsMdrhGzGxpRx/view?usp=drive_link)
