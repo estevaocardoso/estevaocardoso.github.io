@@ -39,10 +39,12 @@ This project presents the results of data analysis of the soybean crop historica
 ## Selected Work in Progress
 
 > [**Connect or separate: does internet increased the propensity for divorce in Brazil?**](https://drive.google.com/file/d/1qkVjEE9zWKAYXlJxn5a7tMrGGNFQe2tD/view?usp=drive_link)
-> With Rafael Góes (https://x.com/rafaelgoesecon)
 ---
+> With Rafael Góes (https://x.com/rafaelgoesecon) <u><a href="{{https://x.com/rafaelgoesecon}}">With Rafael Góes</a>.</u>
+
 
 > [**FDI and Startups: do brazilian startups stand a chance of receiving it?**](https://drive.google.com/file/d/1m9fG3GPjtpDQlS8vn88wsMdrhGzGxpRx/view?usp=drive_link)
+---
 > Master thesis project
 
 
