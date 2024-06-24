@@ -36,3 +36,13 @@ This project presents the results of data analysis of the soybean crop historica
 > [**Building a Database for Volleyball data from international competitions with Machine Learning analysis**](https://github.com/estevaocardoso/projetos-estevao/tree/main/VOLLEYBALL)
 > In this project, I am conducting webscraping on multiple websites to build a database of volleyball data from players participating in FIVB competitions. Additionally, I am performing a machine learning analysis to understand the performance of the players and assess how their height influences the results of their teams
 
+## Selected Work in Progress
+
+> [**Connect or separate: does internet increased the propensity for divorce in Brazil?**](https://drive.google.com/file/d/1qkVjEE9zWKAYXlJxn5a7tMrGGNFQe2tD/view?usp=drive_link)
+> With Rafael Góes (https://x.com/rafaelgoesecon)
+---
+
+> [**FDI and Startups: do brazilian startups stand a chance of receiving it?**](https://drive.google.com/file/d/1m9fG3GPjtpDQlS8vn88wsMdrhGzGxpRx/view?usp=drive_link)
+> Master thesis project
+
+
