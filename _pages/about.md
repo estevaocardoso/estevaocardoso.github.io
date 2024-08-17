@@ -8,10 +8,14 @@ redirect_from:
   - /about.html
 ---
 ------
-Hello, my name is Estevão Cardoso.
+Welcome to my personal website!
 
-I am a MSc student in Economics with a strong background in quantitative methods, including statistics, mathematics, and econometric modeling. Additionally, I have developed programming expertise in Python and R, particularly in web scraping and econometric modeling. my academic journey, I have engaged in diverse research areas, specializing in microeconomics and econometrics. Notably, in my most recent project I applied innovative econometric volatility models to analyze gas reseller station prices, revealing valuable insights into the behavior of fuel prices in Brazil. I am currently pursuing a master's degree in Economics at the Federal University of Pernambuco (PIMES/UFPE), where I have dedicated myself to improving my knowledge in econometrics and macroeconomics throughout the construction of my dissertation.
+I am an applied economist interested in Economic Development, Policy, Culture, and History (not necessarily in this specific order).
 
+I am currently an MSc student in Applied Economics at UFPE.
 
+My research focuses on applying econometric methods to answer causal questions related to the effects of political and cultural changes on human and firm behavior. Specifically, my research lies in two main areas. First, I am interested in studying the impact of investment target policies on small firms in Brazil, particularly how these policies can influence foreign investment decisions. My second area of research focuses on exploring the Economic Development of Brazilian society through the lenses of culture and economics.
+
+When I'm not running regressions or coding, I usually enjoy jogging, playing my guitar, and spending time with friends and family.
 
 
