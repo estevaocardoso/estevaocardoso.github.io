@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Estevao Cardoso"
+title: "Estevão Cardoso"
 excerpt: "Bio"
 author_profile: true
 redirect_from: 
