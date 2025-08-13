@@ -42,7 +42,9 @@ This project presents the results of data analysis of the soybean crop historica
 ---
 With [Rafael Góes](https://x.com/rafaelgoesecon).
 
-
+> [**Trade Shocks and Urban Composition**](https://drive.google.com/file/d/1zflGqKpoqO4Zp2MM9zZ7M6qwJG9cuBS2/view?usp=sharing)
+---
+Thesis essay project
 
 > [**FDI and Startups: do brazilian startups stand a chance of receiving it?**](https://drive.google.com/file/d/1m9fG3GPjtpDQlS8vn88wsMdrhGzGxpRx/view?usp=drive_link)
 ---
