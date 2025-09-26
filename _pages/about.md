@@ -19,3 +19,4 @@ My research focuses on applying econometric methods to answer causal questions r
 When I'm not running regressions or coding, I usually enjoy running (mostly on the streets), playing my guitar, and spending time with friends and family.
 
 
+email: estevaomcs@gmail.com
