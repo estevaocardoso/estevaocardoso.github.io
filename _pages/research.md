@@ -45,11 +45,9 @@ With [Rafael Góes](https://x.com/rafaelgoesecon).
 Thesis essay project
 
 > [**Can we join the party? the effect of university expansion on political engagement**](https://drive.google.com/file/d/1-Js8ArOyErAP3a2dlN8yl2JQfMZdBLuE/view?usp=sharing)
----
 Thesis essay project
 
 > [**FDI and Startups: do brazilian startups stand a chance of receiving it?**](https://drive.google.com/file/d/1m9fG3GPjtpDQlS8vn88wsMdrhGzGxpRx/view?usp=drive_link)
----
 Master thesis project
 
 
