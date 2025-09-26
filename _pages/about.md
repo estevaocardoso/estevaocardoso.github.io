@@ -6,8 +6,9 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+classes: justified
 ---
-------
+
 Welcome to my personal website!
 
 I am an applied economist interested in Economic Development, Policy, Culture, and History (not necessarily in this specific order).
