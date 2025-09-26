@@ -39,11 +39,9 @@ This project presents the results of data analysis of the soybean crop historica
 ## Selected Work in Progress
 
 > [**Connect or separate: does internet increased the propensity for divorce in Brazil?**](https://drive.google.com/file/d/1qkVjEE9zWKAYXlJxn5a7tMrGGNFQe2tD/view?usp=drive_link)
----
 With [Rafael Góes](https://x.com/rafaelgoesecon).
 
 > [**Trade Shocks and Urban Composition**](https://drive.google.com/file/d/1zflGqKpoqO4Zp2MM9zZ7M6qwJG9cuBS2/view?usp=sharing)
----
 Thesis essay project
 
 > [**Can we join the party? the effect of university expansion on political engagement**](https://drive.google.com/file/d/1-Js8ArOyErAP3a2dlN8yl2JQfMZdBLuE/view?usp=sharing)
