@@ -29,10 +29,11 @@ This study used python to analyze data series and applied two filtering methodol
 With Tarcísio Lobato
 
 ## Other projects
-> Data analysis project for soybean crops from 2009/10 to 2021/22 using Python [link](https://drive.google.com/file/d/1jCygbScqzbBCeuib1F76vWX-Ry9S_H49/view?usp=sharing)                                                                                                                                                         
+> **Data analysis project for soybean crops from 2009/10 to 2021/22 using Python** [link](https://drive.google.com/file/d/1jCygbScqzbBCeuib1F76vWX-Ry9S_H49/view?usp=sharing)                                                                                                                                                         
 This project presents the results of data analysis of the soybean crop historical series from the years 2009/2010 to 2021/2022 for all federal regions of Brazil. The main objective of this analysis is to understand how the evolution of soy producers' income occurred over the selected period.
 ---
-> Building a Database for Volleyball data from international competitions with Machine Learning analysis [link](https://github.com/estevaocardoso/projetos-estevao/tree/main/VOLLEYBALL)
+> **Building a Database for Volleyball data from international competitions with Machine Learning analysis** [link](https://github.com/estevaocardoso/projetos-estevao/tree/main/VOLLEYBALL)
+
 > In this project, I am conducting webscraping on multiple websites to build a database of volleyball data from players participating in FIVB competitions. Additionally, I am performing a machine learning analysis to understand the performance of the players and assess how their height influences the results of their teams
 
 ## Selected Work in Progress
