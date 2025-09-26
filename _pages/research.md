@@ -32,16 +32,17 @@ With Tarcísio Lobato
 > **Data analysis project for soybean crops from 2009/10 to 2021/22 using Python** [link](https://drive.google.com/file/d/1jCygbScqzbBCeuib1F76vWX-Ry9S_H49/view?usp=sharing)                                                                                                                                                         
 This project presents the results of data analysis of the soybean crop historical series from the years 2009/2010 to 2021/2022 for all federal regions of Brazil. The main objective of this analysis is to understand how the evolution of soy producers' income occurred over the selected period.
 ---
+
 > **Building a Database for Volleyball data from international competitions with Machine Learning analysis** [link](https://github.com/estevaocardoso/projetos-estevao/tree/main/VOLLEYBALL)
 
 > In this project, I am conducting webscraping on multiple websites to build a database of volleyball data from players participating in FIVB competitions. Additionally, I am performing a machine learning analysis to understand the performance of the players and assess how their height influences the results of their teams
 
 ## Selected Work in Progress
 
-> [Connect or separate: does internet increased the propensity for divorce in Brazil?] [link](https://drive.google.com/file/d/1qkVjEE9zWKAYXlJxn5a7tMrGGNFQe2tD/view?usp=drive_link)
+> Connect or separate: does internet increased the propensity for divorce in Brazil? [link](https://drive.google.com/file/d/1qkVjEE9zWKAYXlJxn5a7tMrGGNFQe2tD/view?usp=drive_link)
 With [Rafael Góes](https://x.com/rafaelgoesecon).
 
-> [Trade Shocks and Urban Composition] [link](https://drive.google.com/file/d/1zflGqKpoqO4Zp2MM9zZ7M6qwJG9cuBS2/view?usp=sharing) Thesis essay project
+> Trade Shocks and Urban Composition [link](https://drive.google.com/file/d/1zflGqKpoqO4Zp2MM9zZ7M6qwJG9cuBS2/view?usp=sharing) Thesis essay project
 
 > Can we join the party? the effect of university expansion on political engagement [link](https://drive.google.com/file/d/1-Js8ArOyErAP3a2dlN8yl2JQfMZdBLuE/view?usp=sharing) Thesis essay project
 
