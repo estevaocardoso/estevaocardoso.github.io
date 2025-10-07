@@ -16,7 +16,6 @@ I am an applied economist interested in Economic Development, Policy, Culture, a
 When I'm not running regressions or coding, I usually enjoy [running](https://www.strava.com/athletes/26967681) (mostly on the streets), playing my guitar, and spending time with friends and family.
 
 
-**You can contact at:**
-
-estevaomcs@gmail.com
-estevao.silva@fgv.br
+**You can contact at:**  
+[estevaomcs@gmail.com](mailto:estevaomcs@gmail.com)  
+[estevao.silva@fgv.br](mailto:estevao.silva@fgv.br)
