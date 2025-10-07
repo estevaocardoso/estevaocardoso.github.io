@@ -17,5 +17,6 @@ When I'm not running regressions or coding, I usually enjoy [running](https://ww
 
 
 **You can contact at:**
+
 estevaomcs@gmail.com
-\\estevao.silva@fgv.br
+estevao.silva@fgv.br
