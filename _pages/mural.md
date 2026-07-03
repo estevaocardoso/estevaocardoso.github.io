@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /mural/
+permalink: /photos/
 author_profile: true
 ---
 
