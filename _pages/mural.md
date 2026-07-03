@@ -1,5 +1,4 @@
----
-title: "Mural"
+--- 
 layout: single
 permalink: /mural/
 author_profile: true
