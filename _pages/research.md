@@ -36,7 +36,7 @@ Building a Database for Volleyball data from international competitions with Mac
 Connect or separate: does internet increased the propensity for divorce in Brazil? [link](https://drive.google.com/file/d/1qkVjEE9zWKAYXlJxn5a7tMrGGNFQe2tD/view?usp=drive_link)
 With [Rafael Góes](https://x.com/rafaelgoesecon).
 
-Opening the City: Trade Liberalization and Urban Expansion in Brazil [link]([https://drive.google.com/file/d/1zflGqKpoqO4Zp2MM9zZ7M6qwJG9cuBS2/view?usp=sharing](https://drive.google.com/file/d/1f5blGRsd7aluz7gOmJJhzceWeuDL2OP9/view?usp=sharing)) *Thesis essay project*
+Opening the City: Trade Liberalization and Urban Expansion in Brazil [link](https://drive.google.com/file/d/1f5blGRsd7aluz7gOmJJhzceWeuDL2OP9/view?usp=sharing) *Thesis essay project*
 
  
 
