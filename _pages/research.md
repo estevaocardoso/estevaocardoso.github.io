@@ -38,9 +38,8 @@ With [Rafael Góes](https://x.com/rafaelgoesecon).
 
 Opening the City: Trade Liberalization and Urban Expansion in Brazil [link](https://drive.google.com/file/d/1f5blGRsd7aluz7gOmJJhzceWeuDL2OP9/view?usp=sharing) *Thesis essay project*
 
- 
-
 Does Less Bureaucracy Promote Foreign Direct Investment? Assessing the Impact of the Legal Framework for Startups [link](https://drive.google.com/file/d/1eYY_IyHPu1IIjZenfYUXtbGzY5IGDVp8/view?usp=sharing)
 *Master thesis* with [Paulo Vaz](https://sites.google.com/site/phvazz/)
 
-
+Growing Up Under Trade Reform: Long-Run Effects on Height and Weight in Brazil [link](https://drive.google.com/file/d/1iJ4-iSa6K-qPWCRpS-vH_aYuekkLqLoo/view?usp=sharing)
+*Working in progress with [Milena Mendonça](https://sites.google.com/view/milenamendonca)
