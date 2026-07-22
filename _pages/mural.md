@@ -4,7 +4,11 @@ permalink: /photos/
 author_profile: true
 ---
 
+Throughout my life I have had the opportunity to visit and live in a few amazing places. It has always been a pleasure to meet many amazing people and cultures. This small repository presents a few visual memories I registered with the intent to record them. They include pictures from Santarém–Pará, Recife–Pernambuco, Londrina–Paraná, Natal–Rio Grande do Norte, and São Paulo–São Paulo.
+
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 12px;">
+  <img src="/images/mural/20260715_104259.jpg" style="width:100%; border-radius:8px; object-fit:cover;">
+  <img src="/images/mural/20260715_070854.jpg" style="width:100%; border-radius:8px; object-fit:cover;">
   <img src="/images/mural/IMG-20230816-WA0002.jpg" style="width:100%; border-radius:8px; object-fit:cover;">
   <img src="/images/mural/20160219_171408.jpg" style="width:100%; border-radius:8px; object-fit:cover;">
   <img src="/images/mural/20160219_171412.jpg" style="width:100%; border-radius:8px; object-fit:cover;">
