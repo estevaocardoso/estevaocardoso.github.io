@@ -11,6 +11,8 @@ author_profile: true
 
 Semester 2024.2. Econometrics course in the Master's program of PIMES/UFPE. You can access the course notes [here](https://drive.google.com/file/d/14A3SzzXFYna3sVGmdUcYO8PMhm9eGa6-/view?usp=sharing).
 
+### 2. Undergraduate Teaching Assistant at FGV Business Administration School - Microeconomics
+
 {% include base_path %}
 
 {% for post in site.teaching reversed %}
