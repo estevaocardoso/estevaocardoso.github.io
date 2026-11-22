@@ -7,10 +7,10 @@ author_profile: true
 Throughout my life I have had the opportunity to visit and live in a few amazing places. It has always been a pleasure to meet many amazing people and cultures. This small repository presents a few visual memories I registered with the intent to record them. They include pictures from Santarém–Pará, Recife–Pernambuco, Londrina–Paraná, Natal–Rio Grande do Norte, and São Paulo–São Paulo.
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 12px;">
-  <img src="/images/mural/IMG_0035.jpg" style="width:100%; border-radius:8px; object-fit:cover;">
-  <img src="/images/mural/IMG_0053.jpg" style="width:100%; border-radius:8px; object-fit:cover;">
-  <img src="/images/mural/IMG_0058.jpg" style="width:100%; border-radius:8px; object-fit:cover;">
-  <img src="/images/mural/IMG_0092.jpg" style="width:100%; border-radius:8px; object-fit:cover;">
+  <img src="/images/mural/IMG_0035.JPEG" style="width:100%; border-radius:8px; object-fit:cover;">
+  <img src="/images/mural/IMG_0058%20(1).JPEG" style="width:100%; border-radius:8px; object-fit:cover;">
+  <img src="/images/mural/IMG_0060%20(3).JPEG" style="width:100%; border-radius:8px; object-fit:cover;">
+  <img src="/images/mural/IMG_0092.JPEG" style="width:100%; border-radius:8px; object-fit:cover;">
   <img src="/images/mural/20260715_104259.jpg" style="width:100%; border-radius:8px; object-fit:cover;">
   <img src="/images/mural/20260715_070854.jpg" style="width:100%; border-radius:8px; object-fit:cover;">
   <img src="/images/mural/IMG-20230816-WA0002.jpg" style="width:100%; border-radius:8px; object-fit:cover;">
